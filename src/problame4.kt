@@ -5,5 +5,6 @@ fun main() {
     var tiempoEncuentro: Double
     
     tiempoEncuentro = distancia / (trenA + trenB)
-    println("Los trenes se encontraran en $tiempoEncuentro segundos")
+    println("Los trenes se encontraran en " +tiempoEncuentro+" segundos")
+
 }
