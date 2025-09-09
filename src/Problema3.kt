@@ -5,7 +5,7 @@ import kotlin.math.*
              ------------
               √(2k - 1)
          
-*/
+*/ 
 
 fun main() {
     val scanner = Scanner(System.`in`)
