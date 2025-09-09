@@ -6,7 +6,7 @@ fun main() {
 
     var n = scanner.nextInt()
 
-    while ( n<= 0) {
+    while ( n<=0) {
         println("Digito un numero invalido, intenta otra vez")
         print("->")
         n = scanner.nextInt()
